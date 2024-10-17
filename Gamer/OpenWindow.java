@@ -1,6 +1,6 @@
 import javax.swing.JFrame;
 
-public class OpenWindow
+public class OpenWindow extends JFrame
 {
     public static void main(String[] args)
     {
